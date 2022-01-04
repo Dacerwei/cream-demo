@@ -7,11 +7,11 @@ const Card = (props: Props) => {
   const { title, content } = props;
   return (
     <div className="bg-light rounded p-2">
-      <h2 className="text-dark text-start">
+      <h2 className="text-start">
         {title}
       </h2>
       <div className="p-2">
-        <p className="text-dark text-start">
+        <p className="text-start">
           {content}
         </p>
       </div>

@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 import Card from './components/Card';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -76,7 +75,7 @@ function App() {
   return (
     <div className="App">
       <h1>Cool Testing Page</h1>
-      <section className="container-fluid bg-dark">
+      <section className="container-lg bg-dark">
         <div className="row g-2">
           <div className="col-xs-12 col-md-8 d-flex">
             <Card
