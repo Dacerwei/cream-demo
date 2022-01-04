@@ -25,7 +25,7 @@ const cards = [
     `,
   },
   {
-    title: 'C.R.E.A.M. is bringing Flash Loans to our money markets.',
+    title: 'C.R.E.A.M.',
     content: `
       Flash Loans allow developers access to under-collateralized loans,.
     `,
